@@ -1,6 +1,6 @@
 cask "signoff" do
   version "1.0.0"
-  sha256 "5394757bba151ac15f24f707353a649e34f7d747c1acde44374341db7e0a12ab"
+  sha256 "1da17ca113fb1c3cbf0db4ea9cf208d7ba6f712bfd98c51a091ce7b43cc06c4d"
 
   url "https://github.com/arpituppal2/Signoff/releases/download/v#{version}/Signoff.dmg"
   name "Signoff"
